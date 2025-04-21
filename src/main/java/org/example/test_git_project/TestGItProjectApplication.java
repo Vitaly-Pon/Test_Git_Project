@@ -5,9 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class TestGItProjectApplication {
-
+// Новая строчка
     public static void main(String[] args) {
-        SpringApplication.run(TestGItProjectApplication.class, args);
-    }
+        SpringApplication.run(TestGItProjectApplication.class, args);// редактирование синим цветом
 
+
+
+    }
 }
